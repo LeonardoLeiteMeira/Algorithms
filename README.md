@@ -1,6 +1,6 @@
 # Algorithms
 
-Implementation of some algorithms to training my skills.
+Implementation of some algorithms to practice.
 
 - Heapsort
 - Quicksort
