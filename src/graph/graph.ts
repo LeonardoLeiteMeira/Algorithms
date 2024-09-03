@@ -35,5 +35,6 @@ export default class Graph {
             const edges = vertex.edges.map(edge => `(${edge.target.id}, weight: ${edge.weight})`).join(", ");
             console.log(`${id} -> [${edges}]`);
         });
+        console.log("\n");
     }
 }
