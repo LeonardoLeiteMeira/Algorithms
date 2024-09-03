@@ -1,4 +1,6 @@
-class Edge{
+import Vertex from "./vertex";
+
+export default class Edge{
     public target:Vertex;
     public weight:number;
     constructor(target:Vertex, weight:number){
